@@ -1,23 +1,21 @@
-jupyterlab
+notebook==6.4.12
 
-matplotlib.pyplot
+matplotlib==3.5.2
 
-pandas
+pandas==1.4.3
 
-numpy
+numpy==1.23.1
 
 pickle
 
 datetime
 
-ipywidgets
+ipywidgets==7.7.1
 
-plotly
+plotly==5.9.0
 
-IPython.display
+IPython==8.4.0
 
-voila
+voila==0.3.6
 
-networkx
-
-
+networkx==2.8.5
