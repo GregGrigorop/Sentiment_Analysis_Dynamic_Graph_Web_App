@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser graph.ipynb
+web: voila --port=8866 --no-browser --enable_nbextensions=True graph.ipynb
