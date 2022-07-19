@@ -1,1 +1,1 @@
-web: voila --port=8866 --no-browser --enable_nbextensions=True graph.ipynb
+web: voila --port=8866 --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True graph.ipynb
